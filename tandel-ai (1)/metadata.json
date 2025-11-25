@@ -1,0 +1,8 @@
+{
+  "name": "Tandel AI",
+  "description": "A ChatGPT-like interface powered by Google Gemini 2.5 Flash",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
